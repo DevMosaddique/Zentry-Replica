@@ -1,7 +1,4 @@
 # Zentry Replica  
-
-![Zentry Replica](https://via.placeholder.com/1200x400?text=Zentry+Replica)  
-
 **Tagline:** *A non-commercial replica of the Zentry website for learning purposes.*  
 
 ---
