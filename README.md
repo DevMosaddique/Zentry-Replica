@@ -1,8 +1,85 @@
-# React + Vite
+# Zentry Replica  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Zentry Replica](https://via.placeholder.com/1200x400?text=Zentry+Replica)  
 
-Currently, two official plugins are available:
+**Tagline:** *A non-commercial replica of the Zentry website for learning purposes.*  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## Overview  
+
+This project is a replication of the [Zentry](https://zentry.com/) website, created for educational and practice purposes. The design, assets, and content are inspired by the original site. This replica is not intended for commercial use and strictly serves as a learning experience to explore modern web development techniques.  
+
+---
+
+## Key Features  
+
+- ⚡ **Fast Build with Vite**  
+- 🎨 **Styled with Tailwind CSS**  
+- 📱 **Responsive Design for all devices**  
+
+---
+
+## Folder Structure  
+
+📂 **`.devcontainer`**: Configuration for the development environment.  
+📂 **`.vscode`**: Editor-specific settings.  
+📂 **`dist`**: Optimized production build files.  
+📂 **`public`**: Static assets and public resources.  
+📂 **`src`**: Contains source files like components, styles, and scripts.  
+
+---
+
+## Technologies Used  
+
+- **Frontend:**  
+  - Tailwind CSS  
+  - HTML5, CSS3  
+- **Build Tool:** Vite  
+
+### Language Breakdown:  
+
+![Languages](https://img.shields.io/badge/JavaScript-81.4%25-yellow)  
+![Languages](https://img.shields.io/badge/CSS-17.6%25-blue)  
+![Languages](https://img.shields.io/badge/HTML-1.0%25-red)  
+
+---
+
+## Installation  
+
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/DevMosaddique/awward.git  
+   ```  
+
+2. Navigate to the project directory:  
+   ```bash  
+   cd awward  
+   ```  
+
+3. Install dependencies:  
+   ```bash  
+   npm install  
+   ```  
+
+4. Start the development server:  
+   ```bash  
+   npm run dev  
+   ```  
+
+---
+
+## Disclaimer  
+
+> **Note:**  
+> This project is a **replica** of the [Zentry](https://zentry.com/) website.  
+> - All assets, designs, and content belong to the original creators of Zentry.  
+> - This project is for **educational purposes only** and is **not for commercial use**.  
+
+---
+
+## License  
+
+🚫 No license is provided for this project as it replicates an existing website and is strictly for learning purposes.  
+
+---  
